@@ -19,5 +19,5 @@ Its using the EnlightenGAN-inference for the 'low-light part'
 
 **How its working:**
 
-![alt text](https://i.ibb.co/4JbyDDq/HDR-algo.png)
+<a href="https://ibb.co/b74hyy0"><img src="https://i.ibb.co/pnHDss7/HDR-algo.png" alt="HDR-algo" border="0" /></a>
 
