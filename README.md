@@ -1,8 +1,23 @@
 # simple_HDR
 This is a simple and easy way to create HDR-style images from normal images in Python
 
-Please intsall the 'requirements.txt'
-
 Its using the EnlightenGAN-inference for the 'low-light part'
 --> https://github.com/arsenyinfo/EnlightenGAN-inference
+
+**How to run:**
+1) clone it
+
+2) intsall the 'requirements.txt'
+
+ 2.5) install EnlightenGAN-inference via pip:
+```
+ pip install git+https://github.com/arsenyinfo/EnlightenGAN-inference
+```
+3) put youre image in the ordner an name it 'input_img-jpg'
+
+4) run the code
+
+**How its working:**
+
+![alt text](https://i.ibb.co/4JbyDDq/HDR-algo.png)
 
